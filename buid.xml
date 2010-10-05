@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- *********************************************************** -->
+<!-- ** Ant build script for testing the GO                   ** -->
+<!-- **                                                       ** -->
+<!-- *********************************************************** -->
+<project name="gotest" default="ut">
+
+	<target name="ut" description="run the unit tests">
+
+	</target>
+</project>
