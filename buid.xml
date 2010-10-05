@@ -6,6 +6,6 @@
 <project name="gotest" default="ut">
 
 	<target name="ut" description="run the unit tests">
-
-	</target>
+		<echo message="Hello, world"/>
+		</target>
 </project>
